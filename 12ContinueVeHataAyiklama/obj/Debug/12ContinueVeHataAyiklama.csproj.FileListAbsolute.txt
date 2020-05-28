@@ -1,0 +1,9 @@
+C:\Users\Hasan\Desktop\12ContinueVeHataAyiklama\bin\Debug\12ContinueVeHataAyiklama.exe.config
+C:\Users\Hasan\Desktop\12ContinueVeHataAyiklama\bin\Debug\12ContinueVeHataAyiklama.exe
+C:\Users\Hasan\Desktop\12ContinueVeHataAyiklama\bin\Debug\12ContinueVeHataAyiklama.pdb
+C:\Users\Hasan\Desktop\12ContinueVeHataAyiklama\obj\Debug\12ContinueVeHataAyiklama.csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\12ContinueVeHataAyiklama\obj\Debug\_12ContinueVeHataAyiklama.Form1.resources
+C:\Users\Hasan\Desktop\12ContinueVeHataAyiklama\obj\Debug\_12ContinueVeHataAyiklama.Properties.Resources.resources
+C:\Users\Hasan\Desktop\12ContinueVeHataAyiklama\obj\Debug\12ContinueVeHataAyiklama.csproj.GenerateResource.cache
+C:\Users\Hasan\Desktop\12ContinueVeHataAyiklama\obj\Debug\12ContinueVeHataAyiklama.exe
+C:\Users\Hasan\Desktop\12ContinueVeHataAyiklama\obj\Debug\12ContinueVeHataAyiklama.pdb
