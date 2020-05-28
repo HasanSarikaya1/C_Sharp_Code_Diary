@@ -1,0 +1,9 @@
+C:\Users\Hasan\Desktop\11WhileOrnekveMatematikselCalısma\bin\Debug\11WhileOrnekveMatematikselCalısma.exe.config
+C:\Users\Hasan\Desktop\11WhileOrnekveMatematikselCalısma\bin\Debug\11WhileOrnekveMatematikselCalısma.exe
+C:\Users\Hasan\Desktop\11WhileOrnekveMatematikselCalısma\bin\Debug\11WhileOrnekveMatematikselCalısma.pdb
+C:\Users\Hasan\Desktop\11WhileOrnekveMatematikselCalısma\obj\Debug\11WhileOrnekveMatematikselCalısma.csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\11WhileOrnekveMatematikselCalısma\obj\Debug\_11WhileOrnekveMatematikselCalısma.Form1.resources
+C:\Users\Hasan\Desktop\11WhileOrnekveMatematikselCalısma\obj\Debug\_11WhileOrnekveMatematikselCalısma.Properties.Resources.resources
+C:\Users\Hasan\Desktop\11WhileOrnekveMatematikselCalısma\obj\Debug\11WhileOrnekveMatematikselCalısma.csproj.GenerateResource.cache
+C:\Users\Hasan\Desktop\11WhileOrnekveMatematikselCalısma\obj\Debug\11WhileOrnekveMatematikselCalısma.exe
+C:\Users\Hasan\Desktop\11WhileOrnekveMatematikselCalısma\obj\Debug\11WhileOrnekveMatematikselCalısma.pdb
