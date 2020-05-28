@@ -1,0 +1,15 @@
+C:\Users\Hasan\Desktop\23WPF_Forms\bin\Debug\23WPF_Forms.exe.config
+C:\Users\Hasan\Desktop\23WPF_Forms\bin\Debug\23WPF_Forms.exe
+C:\Users\Hasan\Desktop\23WPF_Forms\bin\Debug\23WPF_Forms.pdb
+C:\Users\Hasan\Desktop\23WPF_Forms\obj\Debug\23WPF_Forms.csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\23WPF_Forms\obj\Debug\MainWindow.g.cs
+C:\Users\Hasan\Desktop\23WPF_Forms\obj\Debug\App.g.cs
+C:\Users\Hasan\Desktop\23WPF_Forms\obj\Debug\23WPF_Forms_MarkupCompile.cache
+C:\Users\Hasan\Desktop\23WPF_Forms\obj\Debug\23WPF_Forms_MarkupCompile.lref
+C:\Users\Hasan\Desktop\23WPF_Forms\obj\Debug\MainWindow.baml
+C:\Users\Hasan\Desktop\23WPF_Forms\obj\Debug\23WPF_Forms.g.resources
+C:\Users\Hasan\Desktop\23WPF_Forms\obj\Debug\_23WPF_Forms.Properties.Resources.resources
+C:\Users\Hasan\Desktop\23WPF_Forms\obj\Debug\23WPF_Forms.csproj.GenerateResource.cache
+C:\Users\Hasan\Desktop\23WPF_Forms\obj\Debug\23WPF_Forms.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\23WPF_Forms\obj\Debug\23WPF_Forms.exe
+C:\Users\Hasan\Desktop\23WPF_Forms\obj\Debug\23WPF_Forms.pdb

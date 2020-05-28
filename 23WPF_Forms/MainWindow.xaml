@@ -1,0 +1,32 @@
+﻿<Window x:Class="_23WPF_Forms.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_23WPF_Forms"
+        mc:Ignorable="d"
+        Title="Saat Uygulaması" Height="481.163" Width="800" Loaded="Window_Loaded">
+    <Grid Margin="0,0,0,1">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="label1" Content="Saat :" HorizontalAlignment="Left" Margin="129,9,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2" Content="Dakika :" HorizontalAlignment="Left" Margin="128,35,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label3" Content="Saniye :" HorizontalAlignment="Left" Margin="127,63,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.571,0.288"/>
+        <ProgressBar x:Name="progressbar1" HorizontalAlignment="Left" Height="10" Margin="16,17,0,0" VerticalAlignment="Top" Width="100"/>
+        <Slider x:Name="slider1" HorizontalAlignment="Left" Margin="327,17,0,0" VerticalAlignment="Top" Width="234" ValueChanged="slider1_ValueChanged" Maximum="24" IsSnapToTickEnabled="True"/>
+        <Slider x:Name="slider2" HorizontalAlignment="Left" Margin="327,55,0,0" VerticalAlignment="Top" Width="234" ValueChanged="slider2_ValueChanged" Maximum="59" IsSnapToTickEnabled="True"/>
+        <Button x:Name="button1" Content="Ertele" HorizontalAlignment="Left" Margin="657,19,0,0" VerticalAlignment="Top" Width="75" Click="button1_Click"/>
+        <Button x:Name="button2" Content="Durdur" HorizontalAlignment="Left" Margin="657,50,0,0" VerticalAlignment="Top" Width="75" Click="button2_Click"/>
+        <ProgressBar x:Name="progressbar2" HorizontalAlignment="Left" Height="10" Margin="16,43,0,0" VerticalAlignment="Top" Width="100"/>
+        <ProgressBar x:Name="progressbar3" HorizontalAlignment="Left" Height="10" Margin="16,71,0,0" VerticalAlignment="Top" Width="100"/>
+        <Label x:Name="label7" Content="Saat :" HorizontalAlignment="Left" Margin="566,13,0,0" VerticalAlignment="Top" RenderTransformOrigin="2.214,-2.113"/>
+        <Label x:Name="label8" Content="Dakika :" HorizontalAlignment="Left" Margin="566,47,0,0" VerticalAlignment="Top"/>
+        <Label Content="Alarm Ayarla :" HorizontalAlignment="Left" Margin="235,31,0,0" VerticalAlignment="Top"/>
+        <GroupBox Header="Listboxta bir metin belgesini açma ve gösterme" HorizontalAlignment="Left" Height="308" Margin="16,105,0,0" VerticalAlignment="Top" Width="628">
+            <Button x:Name="acbutton" Content="Aç" HorizontalAlignment="Left" Margin="535,130,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        </GroupBox>
+        <ListBox x:Name="listbox1" HorizontalAlignment="Left" Height="261" Margin="36,138,0,0" VerticalAlignment="Top" Width="506"/>
+
+    </Grid>
+</Window>
