@@ -1,0 +1,9 @@
+C:\Users\Hasan\Desktop\3Sayiyla4İşlem\obj\Debug\3Sayiyla4İşlem.csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\3Sayiyla4İşlem\obj\Debug\_3Sayiyla4İşlem.Form1.resources
+C:\Users\Hasan\Desktop\3Sayiyla4İşlem\obj\Debug\_3Sayiyla4İşlem.Properties.Resources.resources
+C:\Users\Hasan\Desktop\3Sayiyla4İşlem\obj\Debug\3Sayiyla4İşlem.csproj.GenerateResource.cache
+C:\Users\Hasan\Desktop\3Sayiyla4İşlem\bin\Debug\02_3Sayiyla4İşlem.exe.config
+C:\Users\Hasan\Desktop\3Sayiyla4İşlem\bin\Debug\02_3Sayiyla4İşlem.exe
+C:\Users\Hasan\Desktop\3Sayiyla4İşlem\bin\Debug\02_3Sayiyla4İşlem.pdb
+C:\Users\Hasan\Desktop\3Sayiyla4İşlem\obj\Debug\02_3Sayiyla4İşlem.exe
+C:\Users\Hasan\Desktop\3Sayiyla4İşlem\obj\Debug\02_3Sayiyla4İşlem.pdb
