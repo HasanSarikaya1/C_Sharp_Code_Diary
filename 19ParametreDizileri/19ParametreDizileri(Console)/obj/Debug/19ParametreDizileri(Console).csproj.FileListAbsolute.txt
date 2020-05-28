@@ -1,0 +1,7 @@
+C:\Users\Hasan\Desktop\github\19ParametreDizileri\19ParametreDizileri(Console)\bin\Debug\19ParametreDizileri(Console).exe.config
+C:\Users\Hasan\Desktop\github\19ParametreDizileri\19ParametreDizileri(Console)\bin\Debug\19ParametreDizileri(Console).exe
+C:\Users\Hasan\Desktop\github\19ParametreDizileri\19ParametreDizileri(Console)\bin\Debug\19ParametreDizileri(Console).pdb
+C:\Users\Hasan\Desktop\github\19ParametreDizileri\19ParametreDizileri(Console)\obj\Debug\19ParametreDizileri(Console).csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\github\19ParametreDizileri\19ParametreDizileri(Console)\obj\Debug\19ParametreDizileri(Console).csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\github\19ParametreDizileri\19ParametreDizileri(Console)\obj\Debug\19ParametreDizileri(Console).exe
+C:\Users\Hasan\Desktop\github\19ParametreDizileri\19ParametreDizileri(Console)\obj\Debug\19ParametreDizileri(Console).pdb

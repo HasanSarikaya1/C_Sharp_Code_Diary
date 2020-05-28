@@ -1,0 +1,10 @@
+C:\Users\Hasan\Desktop\github\19ParametreDizileri\19ParametreDizileri(Form)\obj\Debug\19ParametreDizileri(Form).csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\github\19ParametreDizileri\19ParametreDizileri(Form)\obj\Debug\_19ParametreDizileri_Form_.Form1.resources
+C:\Users\Hasan\Desktop\github\19ParametreDizileri\19ParametreDizileri(Form)\obj\Debug\_19ParametreDizileri_Form_.Properties.Resources.resources
+C:\Users\Hasan\Desktop\github\19ParametreDizileri\19ParametreDizileri(Form)\obj\Debug\19ParametreDizileri(Form).csproj.GenerateResource.cache
+C:\Users\Hasan\Desktop\github\19ParametreDizileri\19ParametreDizileri(Form)\obj\Debug\19ParametreDizileri(Form).csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\github\19ParametreDizileri\19ParametreDizileri(Form)\bin\Debug\19ParametreDizileri(Form).exe.config
+C:\Users\Hasan\Desktop\github\19ParametreDizileri\19ParametreDizileri(Form)\bin\Debug\19ParametreDizileri(Form).exe
+C:\Users\Hasan\Desktop\github\19ParametreDizileri\19ParametreDizileri(Form)\bin\Debug\19ParametreDizileri(Form).pdb
+C:\Users\Hasan\Desktop\github\19ParametreDizileri\19ParametreDizileri(Form)\obj\Debug\19ParametreDizileri(Form).exe
+C:\Users\Hasan\Desktop\github\19ParametreDizileri\19ParametreDizileri(Form)\obj\Debug\19ParametreDizileri(Form).pdb
