@@ -1,0 +1,10 @@
+C:\Users\Hasan\Desktop\github\20Kalıtım\bin\Debug\20Kalıtım.exe.config
+C:\Users\Hasan\Desktop\github\20Kalıtım\bin\Debug\20Kalıtım.exe
+C:\Users\Hasan\Desktop\github\20Kalıtım\bin\Debug\20Kalıtım.pdb
+C:\Users\Hasan\Desktop\github\20Kalıtım\obj\Debug\20Kalıtım.csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\github\20Kalıtım\obj\Debug\_20Kalıtım.Form1.resources
+C:\Users\Hasan\Desktop\github\20Kalıtım\obj\Debug\_20Kalıtım.Properties.Resources.resources
+C:\Users\Hasan\Desktop\github\20Kalıtım\obj\Debug\20Kalıtım.csproj.GenerateResource.cache
+C:\Users\Hasan\Desktop\github\20Kalıtım\obj\Debug\20Kalıtım.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\github\20Kalıtım\obj\Debug\20Kalıtım.exe
+C:\Users\Hasan\Desktop\github\20Kalıtım\obj\Debug\20Kalıtım.pdb
