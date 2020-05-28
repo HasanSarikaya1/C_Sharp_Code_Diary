@@ -1,0 +1,10 @@
+C:\Users\Hasan\Desktop\github\21Delegate(Temsilciler)\21Delegate(Temsiciler)Form\bin\Debug\21Delegate(Temsiciler)Form.exe.config
+C:\Users\Hasan\Desktop\github\21Delegate(Temsilciler)\21Delegate(Temsiciler)Form\bin\Debug\21Delegate(Temsiciler)Form.exe
+C:\Users\Hasan\Desktop\github\21Delegate(Temsilciler)\21Delegate(Temsiciler)Form\bin\Debug\21Delegate(Temsiciler)Form.pdb
+C:\Users\Hasan\Desktop\github\21Delegate(Temsilciler)\21Delegate(Temsiciler)Form\obj\Debug\21Delegate(Temsiciler)Form.csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\github\21Delegate(Temsilciler)\21Delegate(Temsiciler)Form\obj\Debug\_21Delegate_Temsiciler_Form.Form1.resources
+C:\Users\Hasan\Desktop\github\21Delegate(Temsilciler)\21Delegate(Temsiciler)Form\obj\Debug\_21Delegate_Temsiciler_Form.Properties.Resources.resources
+C:\Users\Hasan\Desktop\github\21Delegate(Temsilciler)\21Delegate(Temsiciler)Form\obj\Debug\21Delegate(Temsiciler)Form.csproj.GenerateResource.cache
+C:\Users\Hasan\Desktop\github\21Delegate(Temsilciler)\21Delegate(Temsiciler)Form\obj\Debug\21Delegate(Temsiciler)Form.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\github\21Delegate(Temsilciler)\21Delegate(Temsiciler)Form\obj\Debug\21Delegate(Temsiciler)Form.exe
+C:\Users\Hasan\Desktop\github\21Delegate(Temsilciler)\21Delegate(Temsiciler)Form\obj\Debug\21Delegate(Temsiciler)Form.pdb

@@ -1,0 +1,7 @@
+C:\Users\Hasan\Desktop\21Delegate(Temsilciler)Console\bin\Debug\21Delegate(Temsilciler)Console.exe.config
+C:\Users\Hasan\Desktop\21Delegate(Temsilciler)Console\bin\Debug\21Delegate(Temsilciler)Console.exe
+C:\Users\Hasan\Desktop\21Delegate(Temsilciler)Console\bin\Debug\21Delegate(Temsilciler)Console.pdb
+C:\Users\Hasan\Desktop\21Delegate(Temsilciler)Console\obj\Debug\21Delegate(Temsilciler)Console.csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\21Delegate(Temsilciler)Console\obj\Debug\21Delegate(Temsilciler)Console.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\21Delegate(Temsilciler)Console\obj\Debug\21Delegate(Temsilciler)Console.exe
+C:\Users\Hasan\Desktop\21Delegate(Temsilciler)Console\obj\Debug\21Delegate(Temsilciler)Console.pdb
