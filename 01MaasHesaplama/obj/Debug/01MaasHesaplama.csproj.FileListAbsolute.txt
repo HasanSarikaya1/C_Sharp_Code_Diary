@@ -1,0 +1,9 @@
+C:\Users\Hasan\Desktop\01MaasHesaplama\bin\Debug\01MaasHesaplama.exe.config
+C:\Users\Hasan\Desktop\01MaasHesaplama\bin\Debug\01MaasHesaplama.exe
+C:\Users\Hasan\Desktop\01MaasHesaplama\bin\Debug\01MaasHesaplama.pdb
+C:\Users\Hasan\Desktop\01MaasHesaplama\obj\Debug\01MaasHesaplama.csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\01MaasHesaplama\obj\Debug\_01MaasHesaplama.Form1.resources
+C:\Users\Hasan\Desktop\01MaasHesaplama\obj\Debug\_01MaasHesaplama.Properties.Resources.resources
+C:\Users\Hasan\Desktop\01MaasHesaplama\obj\Debug\01MaasHesaplama.csproj.GenerateResource.cache
+C:\Users\Hasan\Desktop\01MaasHesaplama\obj\Debug\01MaasHesaplama.exe
+C:\Users\Hasan\Desktop\01MaasHesaplama\obj\Debug\01MaasHesaplama.pdb
