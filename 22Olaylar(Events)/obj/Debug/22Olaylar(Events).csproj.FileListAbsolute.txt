@@ -1,0 +1,10 @@
+C:\Users\Hasan\Desktop\22Olaylar(Events)\bin\Debug\22Olaylar(Events).exe.config
+C:\Users\Hasan\Desktop\22Olaylar(Events)\bin\Debug\22Olaylar(Events).exe
+C:\Users\Hasan\Desktop\22Olaylar(Events)\bin\Debug\22Olaylar(Events).pdb
+C:\Users\Hasan\Desktop\22Olaylar(Events)\obj\Debug\22Olaylar(Events).csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\22Olaylar(Events)\obj\Debug\_22Olaylar_Events_.Form1.resources
+C:\Users\Hasan\Desktop\22Olaylar(Events)\obj\Debug\_22Olaylar_Events_.Properties.Resources.resources
+C:\Users\Hasan\Desktop\22Olaylar(Events)\obj\Debug\22Olaylar(Events).csproj.GenerateResource.cache
+C:\Users\Hasan\Desktop\22Olaylar(Events)\obj\Debug\22Olaylar(Events).csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\22Olaylar(Events)\obj\Debug\22Olaylar(Events).exe
+C:\Users\Hasan\Desktop\22Olaylar(Events)\obj\Debug\22Olaylar(Events).pdb
