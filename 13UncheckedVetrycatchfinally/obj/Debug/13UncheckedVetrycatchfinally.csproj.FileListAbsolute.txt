@@ -1,0 +1,9 @@
+C:\Users\Hasan\Desktop\13UncheckedVetrycatchfinally\bin\Debug\13UncheckedVetrycatchfinally.exe.config
+C:\Users\Hasan\Desktop\13UncheckedVetrycatchfinally\bin\Debug\13UncheckedVetrycatchfinally.exe
+C:\Users\Hasan\Desktop\13UncheckedVetrycatchfinally\bin\Debug\13UncheckedVetrycatchfinally.pdb
+C:\Users\Hasan\Desktop\13UncheckedVetrycatchfinally\obj\Debug\13UncheckedVetrycatchfinally.csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\13UncheckedVetrycatchfinally\obj\Debug\_13UncheckedVetrycatchfinally.Form1.resources
+C:\Users\Hasan\Desktop\13UncheckedVetrycatchfinally\obj\Debug\_13UncheckedVetrycatchfinally.Properties.Resources.resources
+C:\Users\Hasan\Desktop\13UncheckedVetrycatchfinally\obj\Debug\13UncheckedVetrycatchfinally.csproj.GenerateResource.cache
+C:\Users\Hasan\Desktop\13UncheckedVetrycatchfinally\obj\Debug\13UncheckedVetrycatchfinally.exe
+C:\Users\Hasan\Desktop\13UncheckedVetrycatchfinally\obj\Debug\13UncheckedVetrycatchfinally.pdb
