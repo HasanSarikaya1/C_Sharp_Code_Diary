@@ -1,0 +1,9 @@
+C:\Users\Hasan\Desktop\03MetotDenemesi\bin\Debug\03MetotDenemesi.exe.config
+C:\Users\Hasan\Desktop\03MetotDenemesi\bin\Debug\03MetotDenemesi.exe
+C:\Users\Hasan\Desktop\03MetotDenemesi\bin\Debug\03MetotDenemesi.pdb
+C:\Users\Hasan\Desktop\03MetotDenemesi\obj\Debug\03MetotDenemesi.csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\03MetotDenemesi\obj\Debug\_03MetotDenemesi.Form1.resources
+C:\Users\Hasan\Desktop\03MetotDenemesi\obj\Debug\_03MetotDenemesi.Properties.Resources.resources
+C:\Users\Hasan\Desktop\03MetotDenemesi\obj\Debug\03MetotDenemesi.csproj.GenerateResource.cache
+C:\Users\Hasan\Desktop\03MetotDenemesi\obj\Debug\03MetotDenemesi.exe
+C:\Users\Hasan\Desktop\03MetotDenemesi\obj\Debug\03MetotDenemesi.pdb
