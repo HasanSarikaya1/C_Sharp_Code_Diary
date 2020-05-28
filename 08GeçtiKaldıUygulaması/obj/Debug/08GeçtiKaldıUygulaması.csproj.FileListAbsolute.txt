@@ -1,0 +1,9 @@
+C:\Users\Hasan\Desktop\08GeçtiKaldıUygulaması\bin\Debug\08GeçtiKaldıUygulaması.exe.config
+C:\Users\Hasan\Desktop\08GeçtiKaldıUygulaması\bin\Debug\08GeçtiKaldıUygulaması.exe
+C:\Users\Hasan\Desktop\08GeçtiKaldıUygulaması\bin\Debug\08GeçtiKaldıUygulaması.pdb
+C:\Users\Hasan\Desktop\08GeçtiKaldıUygulaması\obj\Debug\08GeçtiKaldıUygulaması.csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\08GeçtiKaldıUygulaması\obj\Debug\_08GeçtiKaldıUygulaması.Form1.resources
+C:\Users\Hasan\Desktop\08GeçtiKaldıUygulaması\obj\Debug\_08GeçtiKaldıUygulaması.Properties.Resources.resources
+C:\Users\Hasan\Desktop\08GeçtiKaldıUygulaması\obj\Debug\08GeçtiKaldıUygulaması.csproj.GenerateResource.cache
+C:\Users\Hasan\Desktop\08GeçtiKaldıUygulaması\obj\Debug\08GeçtiKaldıUygulaması.exe
+C:\Users\Hasan\Desktop\08GeçtiKaldıUygulaması\obj\Debug\08GeçtiKaldıUygulaması.pdb
