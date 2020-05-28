@@ -1,0 +1,9 @@
+C:\Users\Hasan\Desktop\isealımkriteri\bin\Debug\isealımkriteri.exe.config
+C:\Users\Hasan\Desktop\isealımkriteri\bin\Debug\isealımkriteri.exe
+C:\Users\Hasan\Desktop\isealımkriteri\bin\Debug\isealımkriteri.pdb
+C:\Users\Hasan\Desktop\isealımkriteri\obj\Debug\isealımkriteri.csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\isealımkriteri\obj\Debug\isealımkriteri.Form1.resources
+C:\Users\Hasan\Desktop\isealımkriteri\obj\Debug\isealımkriteri.Properties.Resources.resources
+C:\Users\Hasan\Desktop\isealımkriteri\obj\Debug\isealımkriteri.csproj.GenerateResource.cache
+C:\Users\Hasan\Desktop\isealımkriteri\obj\Debug\isealımkriteri.exe
+C:\Users\Hasan\Desktop\isealımkriteri\obj\Debug\isealımkriteri.pdb
