@@ -1,0 +1,10 @@
+C:\Users\Hasan\Desktop\24SQL\bin\Debug\24SQL.exe.config
+C:\Users\Hasan\Desktop\24SQL\bin\Debug\24SQL.exe
+C:\Users\Hasan\Desktop\24SQL\bin\Debug\24SQL.pdb
+C:\Users\Hasan\Desktop\24SQL\obj\Debug\24SQL.csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\24SQL\obj\Debug\_24SQL.Form1.resources
+C:\Users\Hasan\Desktop\24SQL\obj\Debug\_24SQL.Properties.Resources.resources
+C:\Users\Hasan\Desktop\24SQL\obj\Debug\24SQL.csproj.GenerateResource.cache
+C:\Users\Hasan\Desktop\24SQL\obj\Debug\24SQL.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\24SQL\obj\Debug\24SQL.exe
+C:\Users\Hasan\Desktop\24SQL\obj\Debug\24SQL.pdb
