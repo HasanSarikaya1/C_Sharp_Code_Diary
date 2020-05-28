@@ -1,0 +1,9 @@
+C:\Users\Hasan\Desktop\16Arrays\bin\Debug\16Arrays.exe.config
+C:\Users\Hasan\Desktop\16Arrays\bin\Debug\16Arrays.exe
+C:\Users\Hasan\Desktop\16Arrays\bin\Debug\16Arrays.pdb
+C:\Users\Hasan\Desktop\16Arrays\obj\Debug\16Arrays.csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\16Arrays\obj\Debug\_16Arrays.Form1.resources
+C:\Users\Hasan\Desktop\16Arrays\obj\Debug\_16Arrays.Properties.Resources.resources
+C:\Users\Hasan\Desktop\16Arrays\obj\Debug\16Arrays.csproj.GenerateResource.cache
+C:\Users\Hasan\Desktop\16Arrays\obj\Debug\16Arrays.exe
+C:\Users\Hasan\Desktop\16Arrays\obj\Debug\16Arrays.pdb
