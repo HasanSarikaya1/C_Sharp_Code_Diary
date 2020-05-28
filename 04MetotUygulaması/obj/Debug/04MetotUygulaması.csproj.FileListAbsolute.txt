@@ -1,0 +1,9 @@
+C:\Users\Hasan\Desktop\04MetotUygulaması\bin\Debug\04MetotUygulaması.exe.config
+C:\Users\Hasan\Desktop\04MetotUygulaması\bin\Debug\04MetotUygulaması.exe
+C:\Users\Hasan\Desktop\04MetotUygulaması\bin\Debug\04MetotUygulaması.pdb
+C:\Users\Hasan\Desktop\04MetotUygulaması\obj\Debug\04MetotUygulaması.csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\04MetotUygulaması\obj\Debug\_04MetotUygulaması.Form1.resources
+C:\Users\Hasan\Desktop\04MetotUygulaması\obj\Debug\_04MetotUygulaması.Properties.Resources.resources
+C:\Users\Hasan\Desktop\04MetotUygulaması\obj\Debug\04MetotUygulaması.csproj.GenerateResource.cache
+C:\Users\Hasan\Desktop\04MetotUygulaması\obj\Debug\04MetotUygulaması.exe
+C:\Users\Hasan\Desktop\04MetotUygulaması\obj\Debug\04MetotUygulaması.pdb
