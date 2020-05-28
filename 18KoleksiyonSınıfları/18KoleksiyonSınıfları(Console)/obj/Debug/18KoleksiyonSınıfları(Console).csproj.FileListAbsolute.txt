@@ -1,0 +1,6 @@
+C:\Users\Hasan\Desktop\18KoleksiyonSınıfları(Console)\bin\Debug\18KoleksiyonSınıfları(Console).exe.config
+C:\Users\Hasan\Desktop\18KoleksiyonSınıfları(Console)\bin\Debug\18KoleksiyonSınıfları(Console).exe
+C:\Users\Hasan\Desktop\18KoleksiyonSınıfları(Console)\bin\Debug\18KoleksiyonSınıfları(Console).pdb
+C:\Users\Hasan\Desktop\18KoleksiyonSınıfları(Console)\obj\Debug\18KoleksiyonSınıfları(Console).csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\18KoleksiyonSınıfları(Console)\obj\Debug\18KoleksiyonSınıfları(Console).exe
+C:\Users\Hasan\Desktop\18KoleksiyonSınıfları(Console)\obj\Debug\18KoleksiyonSınıfları(Console).pdb

@@ -1,0 +1,10 @@
+C:\Users\Hasan\Desktop\github\18KoleksiyonSınıfları\18KoleksiyonSınıfları(Form)\bin\Debug\18KoleksiyonSınıfları(Form).exe.config
+C:\Users\Hasan\Desktop\github\18KoleksiyonSınıfları\18KoleksiyonSınıfları(Form)\bin\Debug\18KoleksiyonSınıfları(Form).exe
+C:\Users\Hasan\Desktop\github\18KoleksiyonSınıfları\18KoleksiyonSınıfları(Form)\bin\Debug\18KoleksiyonSınıfları(Form).pdb
+C:\Users\Hasan\Desktop\github\18KoleksiyonSınıfları\18KoleksiyonSınıfları(Form)\obj\Debug\18KoleksiyonSınıfları(Form).csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\github\18KoleksiyonSınıfları\18KoleksiyonSınıfları(Form)\obj\Debug\_18KoleksiyonSınıfları_Form_.Form1.resources
+C:\Users\Hasan\Desktop\github\18KoleksiyonSınıfları\18KoleksiyonSınıfları(Form)\obj\Debug\_18KoleksiyonSınıfları_Form_.Properties.Resources.resources
+C:\Users\Hasan\Desktop\github\18KoleksiyonSınıfları\18KoleksiyonSınıfları(Form)\obj\Debug\18KoleksiyonSınıfları(Form).csproj.GenerateResource.cache
+C:\Users\Hasan\Desktop\github\18KoleksiyonSınıfları\18KoleksiyonSınıfları(Form)\obj\Debug\18KoleksiyonSınıfları(Form).csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\github\18KoleksiyonSınıfları\18KoleksiyonSınıfları(Form)\obj\Debug\18KoleksiyonSınıfları(Form).exe
+C:\Users\Hasan\Desktop\github\18KoleksiyonSınıfları\18KoleksiyonSınıfları(Form)\obj\Debug\18KoleksiyonSınıfları(Form).pdb
