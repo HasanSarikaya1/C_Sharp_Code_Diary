@@ -1,0 +1,9 @@
+C:\Users\Hasan\Desktop\10RastgeleSayıyıBulmaveSwitch\bin\Debug\10RastgeleSayıyıBulmaveSwitch.exe.config
+C:\Users\Hasan\Desktop\10RastgeleSayıyıBulmaveSwitch\bin\Debug\10RastgeleSayıyıBulmaveSwitch.exe
+C:\Users\Hasan\Desktop\10RastgeleSayıyıBulmaveSwitch\bin\Debug\10RastgeleSayıyıBulmaveSwitch.pdb
+C:\Users\Hasan\Desktop\10RastgeleSayıyıBulmaveSwitch\obj\Debug\10RastgeleSayıyıBulmaveSwitch.csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\10RastgeleSayıyıBulmaveSwitch\obj\Debug\_10RastgeleSayıyıBulmaveSwitch.Form1.resources
+C:\Users\Hasan\Desktop\10RastgeleSayıyıBulmaveSwitch\obj\Debug\_10RastgeleSayıyıBulmaveSwitch.Properties.Resources.resources
+C:\Users\Hasan\Desktop\10RastgeleSayıyıBulmaveSwitch\obj\Debug\10RastgeleSayıyıBulmaveSwitch.csproj.GenerateResource.cache
+C:\Users\Hasan\Desktop\10RastgeleSayıyıBulmaveSwitch\obj\Debug\10RastgeleSayıyıBulmaveSwitch.exe
+C:\Users\Hasan\Desktop\10RastgeleSayıyıBulmaveSwitch\obj\Debug\10RastgeleSayıyıBulmaveSwitch.pdb
