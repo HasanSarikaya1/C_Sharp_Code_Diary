@@ -1,0 +1,9 @@
+C:\Users\Hasan\Desktop\15EnumVeSerbestÇalışma\bin\Debug\15EnumVeSerbestÇalışma.exe.config
+C:\Users\Hasan\Desktop\15EnumVeSerbestÇalışma\bin\Debug\15EnumVeSerbestÇalışma.exe
+C:\Users\Hasan\Desktop\15EnumVeSerbestÇalışma\bin\Debug\15EnumVeSerbestÇalışma.pdb
+C:\Users\Hasan\Desktop\15EnumVeSerbestÇalışma\obj\Debug\15EnumVeSerbestÇalışma.csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\15EnumVeSerbestÇalışma\obj\Debug\_15EnumVeSerbestÇalışma.Form1.resources
+C:\Users\Hasan\Desktop\15EnumVeSerbestÇalışma\obj\Debug\_15EnumVeSerbestÇalışma.Properties.Resources.resources
+C:\Users\Hasan\Desktop\15EnumVeSerbestÇalışma\obj\Debug\15EnumVeSerbestÇalışma.csproj.GenerateResource.cache
+C:\Users\Hasan\Desktop\15EnumVeSerbestÇalışma\obj\Debug\15EnumVeSerbestÇalışma.exe
+C:\Users\Hasan\Desktop\15EnumVeSerbestÇalışma\obj\Debug\15EnumVeSerbestÇalışma.pdb
