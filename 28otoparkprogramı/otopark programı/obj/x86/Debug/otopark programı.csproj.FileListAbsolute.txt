@@ -1,0 +1,34 @@
+C:\Users\bt555\Desktop\otopark programı\otopark programı\bin\Debug\otopark programı.exe
+C:\Users\bt555\Desktop\otopark programı\otopark programı\bin\Debug\otopark programı.pdb
+C:\Users\bt555\Desktop\otopark programı\otopark programı\obj\x86\Debug\otopark_programı.Form1.resources
+C:\Users\bt555\Desktop\otopark programı\otopark programı\obj\x86\Debug\otopark_programı.Properties.Resources.resources
+C:\Users\bt555\Desktop\otopark programı\otopark programı\obj\x86\Debug\otopark programı.csproj.GenerateResource.Cache
+C:\Users\bt555\Desktop\otopark programı\otopark programı\obj\x86\Debug\otopark programı.exe
+C:\Users\bt555\Desktop\otopark programı\otopark programı\obj\x86\Debug\otopark programı.pdb
+C:\Users\bt555\Desktop\otopark programı\otopark programı\obj\x86\Debug\otopark programı.csprojResolveAssemblyReference.cache
+C:\Users\EMYO\Desktop\otopark\otopark programı\obj\x86\Debug\otopark programı.exe
+C:\Users\EMYO\Desktop\otopark\otopark programı\obj\x86\Debug\otopark programı.pdb
+C:\Users\EMYO\Desktop\otopark\otopark programı\bin\Debug\otopark programı.exe
+C:\Users\EMYO\Desktop\otopark\otopark programı\bin\Debug\otopark programı.pdb
+C:\Users\EMYO\Desktop\otopark\otopark programı\obj\x86\Debug\otopark programı.csprojResolveAssemblyReference.cache
+C:\Users\EMYO\Desktop\otopark\otopark programı\obj\x86\Debug\otopark_programı.Form1.resources
+C:\Users\EMYO\Desktop\otopark\otopark programı\obj\x86\Debug\otopark_programı.Properties.Resources.resources
+C:\Users\EMYO\Desktop\otopark\otopark programı\obj\x86\Debug\otopark programı.csproj.GenerateResource.Cache
+C:\Users\Reverse\Desktop\otopark\otopark\otopark programı\obj\x86\Debug\otopark programı.exe
+C:\Users\Reverse\Desktop\otopark\otopark\otopark programı\obj\x86\Debug\otopark programı.pdb
+C:\Users\Reverse\Desktop\otopark\otopark\otopark programı\bin\Debug\otopark programı.exe
+C:\Users\Reverse\Desktop\otopark\otopark\otopark programı\bin\Debug\otopark programı.pdb
+C:\Users\Reverse\Desktop\otopark\otopark\otopark programı\obj\x86\Debug\otopark programı.csprojResolveAssemblyReference.cache
+C:\Users\Reverse\Desktop\otopark\otopark\otopark programı\obj\x86\Debug\otopark_programı.Form1.resources
+C:\Users\Reverse\Desktop\otopark\otopark\otopark programı\obj\x86\Debug\otopark_programı.Properties.Resources.resources
+C:\Users\Reverse\Desktop\otopark\otopark\otopark programı\obj\x86\Debug\otopark programı.csproj.GenerateResource.Cache
+C:\Users\EMYO\Desktop\otopark\otopark\otopark programı\obj\x86\Debug\otopark programı.exe
+C:\Users\EMYO\Desktop\otopark\otopark\otopark programı\obj\x86\Debug\otopark programı.pdb
+C:\Users\EMYO\Desktop\otopark\otopark\otopark programı\bin\Debug\otopark programı.exe
+C:\Users\EMYO\Desktop\otopark\otopark\otopark programı\bin\Debug\otopark programı.pdb
+C:\Users\EMYO\Desktop\otopark\otopark\otopark programı\obj\x86\Debug\otopark programı.csprojResolveAssemblyReference.cache
+C:\Users\EMYO\Desktop\otopark\otopark\otopark programı\obj\x86\Debug\otopark_programı.Form1.resources
+C:\Users\EMYO\Desktop\otopark\otopark\otopark programı\obj\x86\Debug\otopark_programı.Properties.Resources.resources
+C:\Users\EMYO\Desktop\otopark\otopark\otopark programı\obj\x86\Debug\otopark programı.csproj.GenerateResource.Cache
+C:\Users\Reverse\Desktop\otopark\otopark\otopark\otopark programı\obj\x86\Debug\otopark programı.exe
+C:\Users\Reverse\Desktop\otopark\otopark\otopark\otopark programı\obj\x86\Debug\otopark programı.pdb
