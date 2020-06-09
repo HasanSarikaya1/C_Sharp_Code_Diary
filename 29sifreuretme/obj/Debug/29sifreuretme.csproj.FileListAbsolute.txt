@@ -1,0 +1,10 @@
+C:\Users\Hasan\Desktop\29sifreuretme\bin\Debug\29sifreuretme.exe.config
+C:\Users\Hasan\Desktop\29sifreuretme\bin\Debug\29sifreuretme.exe
+C:\Users\Hasan\Desktop\29sifreuretme\bin\Debug\29sifreuretme.pdb
+C:\Users\Hasan\Desktop\29sifreuretme\obj\Debug\29sifreuretme.csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\29sifreuretme\obj\Debug\_29sifreuretme.Form1.resources
+C:\Users\Hasan\Desktop\29sifreuretme\obj\Debug\_29sifreuretme.Properties.Resources.resources
+C:\Users\Hasan\Desktop\29sifreuretme\obj\Debug\29sifreuretme.csproj.GenerateResource.cache
+C:\Users\Hasan\Desktop\29sifreuretme\obj\Debug\29sifreuretme.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\29sifreuretme\obj\Debug\29sifreuretme.exe
+C:\Users\Hasan\Desktop\29sifreuretme\obj\Debug\29sifreuretme.pdb
