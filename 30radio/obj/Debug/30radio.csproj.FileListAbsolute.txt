@@ -1,0 +1,15 @@
+C:\Users\Hasan\Desktop\30radio\bin\Debug\30radio.exe.config
+C:\Users\Hasan\Desktop\30radio\bin\Debug\30radio.exe
+C:\Users\Hasan\Desktop\30radio\bin\Debug\30radio.pdb
+C:\Users\Hasan\Desktop\30radio\bin\Debug\Interop.WMPLib.dll
+C:\Users\Hasan\Desktop\30radio\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Hasan\Desktop\30radio\obj\Debug\30radio.csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\30radio\obj\Debug\Interop.WMPLib.dll
+C:\Users\Hasan\Desktop\30radio\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Hasan\Desktop\30radio\obj\Debug\30radio.csproj.ResolveComReference.cache
+C:\Users\Hasan\Desktop\30radio\obj\Debug\_30radio.Form1.resources
+C:\Users\Hasan\Desktop\30radio\obj\Debug\_30radio.Properties.Resources.resources
+C:\Users\Hasan\Desktop\30radio\obj\Debug\30radio.csproj.GenerateResource.cache
+C:\Users\Hasan\Desktop\30radio\obj\Debug\30radio.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\30radio\obj\Debug\30radio.exe
+C:\Users\Hasan\Desktop\30radio\obj\Debug\30radio.pdb
